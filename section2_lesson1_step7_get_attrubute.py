@@ -5,6 +5,7 @@ import time
 
 #https://stepik.org/lesson/165493/step/7?unit=140087
 
+
 link = "http://suninjuly.github.io/get_attribute.html"
 
 try:

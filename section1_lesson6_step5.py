@@ -5,6 +5,8 @@ import math
 
 link = "http://suninjuly.github.io/find_link_text"
 
+#https://stepik.org/lesson/138920/step/5?unit=196194
+
 try:
     browser = webdriver.Chrome()
     browser.get(link)

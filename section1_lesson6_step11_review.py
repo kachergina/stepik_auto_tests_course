@@ -2,6 +2,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import time
 
+#https://stepik.org/lesson/138920/step/11?unit=196194
+# ревью чужой задачи
+
 try: 
     link = "http://suninjuly.github.io/registration1.html"
     browser = webdriver.Chrome()

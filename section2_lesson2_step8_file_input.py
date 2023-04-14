@@ -1,6 +1,7 @@
 #Открыть страницу http://suninjuly.github.io/file_input.html
 ##Загрузить файл. Файл должен иметь расширение .txt и может быть пустым
 #Нажать кнопку "Submit".
+#https://stepik.org/lesson/228249/step/8?unit=200781
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By

@@ -3,6 +3,7 @@ from selenium.webdriver.common.by import By
 import math
 import time
 
+
 #https://stepik.org/lesson/228249/step/6?unit=200781
 
 link = "http://suninjuly.github.io/execute_script.html"

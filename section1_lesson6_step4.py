@@ -4,6 +4,7 @@ import time
 
 link = "http://suninjuly.github.io/simple_form_find_task.html"
 
+#https://stepik.org/lesson/138920/step/4?unit=196194
 
 try:
     browser = webdriver.Chrome()

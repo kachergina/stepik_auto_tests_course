@@ -4,6 +4,7 @@ import time
 
 #https://stepik.org/lesson/181384/step/5?unit=156009
 
+
 browser = webdriver.Chrome()
 # говорим WebDriver искать каждый элемент в течение 5 секунд
 browser.implicitly_wait(5)

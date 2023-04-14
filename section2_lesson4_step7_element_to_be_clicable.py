@@ -5,6 +5,7 @@ from selenium import webdriver
 
 #https://stepik.org/lesson/181384/step/7?unit=156009
 
+
 browser = webdriver.Chrome()
 
 browser.get("http://suninjuly.github.io/wait2.html")

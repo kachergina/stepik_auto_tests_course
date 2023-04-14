@@ -7,6 +7,7 @@ import time
 
 #https://stepik.org/lesson/181384/step/8?unit=156009
 
+
 def calc(x):
   return str(math.log(abs(12 * math.sin(int(x)))))
 

@@ -4,6 +4,7 @@ from selenium.webdriver.common.by import By
 import math
 import time
 
+
 #https://stepik.org/lesson/228249/step/3?unit=200781
 
 link = "http://suninjuly.github.io/selects1.html"

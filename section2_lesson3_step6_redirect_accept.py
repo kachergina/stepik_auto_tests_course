@@ -3,6 +3,7 @@ from selenium import webdriver
 import time
 from selenium.webdriver.common.by import By
 
+#https://stepik.org/lesson/184253/step/6?unit=158843
 
 def calc(x):
     return str(math.log(abs(12 * math.sin(int(x)))))

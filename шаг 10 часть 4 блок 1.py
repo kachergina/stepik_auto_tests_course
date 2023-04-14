@@ -6,6 +6,7 @@ import time
 #https://stepik.org/lesson/138920/step/11?unit=196194
 # Это было ревью чего-то задания
 
+
 link = "http://suninjuly.github.io/registration2.html"
 
 try:
