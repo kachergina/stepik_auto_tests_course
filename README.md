@@ -1,1 +1,1 @@
-# stepik_auto_tests_course
+# Задания с курса на степике - https://stepik.org/course/575/
